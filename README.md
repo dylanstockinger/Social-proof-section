@@ -1,5 +1,6 @@
 # Frontend Mentor - Social proof section
-<img width="1436" alt="Capture d’écran 2023-01-16 à 19 06 58" src="https://user-images.githubusercontent.com/105114575/212779429-44449caf-681a-45a1-8d24-15ab3a8614d1.png">
+<img width="1436" alt="Capture d’écran 2023-01-17 à 00 25 58" src="https://user-images.githubusercontent.com/105114575/212779636-e22d75b5-18a4-433e-ac81-7e734dbcf6e7.png">
+
 
 
 
